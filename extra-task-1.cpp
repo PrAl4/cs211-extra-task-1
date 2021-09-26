@@ -1,7 +1,6 @@
 #include <assert.h>
 #include <iostream>
 #include <cmath>
-#include <cfloat>
 
 double seconds_difference(double time_1, double time_2)
 {
